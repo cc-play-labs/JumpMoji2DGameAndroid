@@ -1,16 +1,16 @@
 # JumpMoji2DGameAndroid
+<br>
+2D Android Platformer<br>
+Theme: Halloween<br>
+Type: Platformer<br>
+Created in: Unity3D<br>
+Programming Language: C#<br>
 
-2D Android Platformer
-Theme: Halloween
-Type: Platformer
-Created in: Unity3D
-Programming Language: C#
 
+Future Updates<br>
 
-Future Updates
+- New Spring/Summer theme<br>
+- New Characters<br>
+- More levels<br>
 
-- New Spring/Summer theme
-- New Characters
-- More levels
-
-More updates will be added here.
+More updates will be added here.<br>
